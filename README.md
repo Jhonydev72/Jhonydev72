@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou o João Victor! 👋
 
-<!--
-**Jhonydev72/Jhonydev72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** e apaixonado por resolver problemas usando código. Atualmente, meu foco de estudo e desenvolvimento está nas áreas de **Análise de Dados**, **Automação** e **Inteligência Artificial**.
 
-Here are some ideas to get you started:
+### 🎓 O que estou fazendo agora:
+- Cursando Ciência da Computação.
+- Desenvolvendo meu TCC, integrando Inteligência Artificial com drones (DJI Tello).
+- Aprofundando conhecimentos em análise de dados e automação web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas:
+- **Linguagens:** Python, Javascript
+- **Dados & Automação:** Pandas, Selenium, Matplotlib, Seaborn Streamlit
+- **Ferramentas:** Git, GitHub, Postman, Docker e Antigravit
+
+### 📫 Como me encontrar:
+- [LinkedIn](www.linkedin.com/in/joão-victor-fernandes-8a69752aa)
+- E-mail: fernandesjoaovictor84@gmail.com
