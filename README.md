@@ -13,5 +13,5 @@ Sou estudante de **Ciência da Computação** e apaixonado por resolver problema
 - **Ferramentas:** Git, GitHub, Postman, Docker e Antigravit
 
 ### 📫 Como me encontrar:
-- [LinkedIn]([www.linkedin.com/in/joão-victor-fernandes-8a69752aa](https://www.linkedin.com/in/joão-victor-fernandes-8a69752aa))
+- [LinkedIn](https://www.linkedin.com/in/joão-victor-fernandes-8a69752aa)
 - E-mail: fernandesjoaovictor84@gmail.com
